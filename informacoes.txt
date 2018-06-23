@@ -1,0 +1,7 @@
+Link do projeto no GitHub: https://github.com/isacmoura/Trabalho-PDS
+
+Projeto não está 100%
+
+Faltou implementar:
+- Repositórios para cada entidade.
+- Factorys (fiquei travado na hora de mandar as criações pro repositório)
